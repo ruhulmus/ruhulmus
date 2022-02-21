@@ -26,17 +26,17 @@
 
 [![](https://img.shields.io/badge/-🦠%20Releif%20Manager-000)](https://github.com/ruhulmus/Covid19-Relief-Management-PHP)
 [![](https://img.shields.io/badge/-⚙️%20Coming%20Soon%20Template-000)](https://github.com/ruhulmus/Bootstrap-Coming-Soon-underconstruction-responsive-Template)
-[![](https://img.shields.io/badge/-📃%20Project DocumentationTemplate-000)](https://github.com/ruhulmus/Responsive-Template-Documentation#readme)
+[![](https://img.shields.io/badge/-📃%20Project%20DocumentationTemplate-000)](https://github.com/ruhulmus/Responsive-Template-Documentation#readme)
 
 
 <a href="https://github.com/ruhulmus/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=ruhulmus&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0f2027,20203a43,202c5364&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulmus&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=fff&icon_color=fff&bg_color=adcbe3,4b6cb7,182848&theme=graywhite" /></a>
 
 ### Recent Post
 
-![Git Flow Architecture](https://github.com/ruhulmus/Git-Flow-Architecture#readme)
-![Software Development and Deployment Process](https://github.com/ruhulmus/Software-Development-and-Deployment-Process#readme)
-![Java Asynchronous logger with log4j 2](https://github.com/ruhulmus/logging-log4j2/tree/release-2.x/docs/log4j-java-async-logger#readme)
-![Spring Boot Tutorial](https://github.com/ruhulmus/spring-boot-tutorial)
+- [Git Flow Architecture](https://github.com/ruhulmus/Git-Flow-Architecture#readme)
+- [Software Development and Deployment Process](https://github.com/ruhulmus/Software-Development-and-Deployment-Process#readme)
+- [Java Asynchronous logger with log4j 2](https://github.com/ruhulmus/logging-log4j2/tree/release-2.x/docs/log4j-java-async-logger#readme)
+- [Spring Boot Tutorial](https://github.com/ruhulmus/spring-boot-tutorial)
 
 
 ### Connect With Me
