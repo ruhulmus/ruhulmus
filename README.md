@@ -39,7 +39,7 @@
 - [Spring Boot Tutorial](https://github.com/ruhulmus/spring-boot-tutorial)
 
 ### Licenses & Certifications
-[![](https://images.credly.com/size/60x60/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png)](https://www.credly.com/badges/d432a9b2-aa31-42af-9339-14570158a151)
+[![](https://images.credly.com/size/70x70/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png)](https://www.credly.com/badges/d432a9b2-aa31-42af-9339-14570158a151)
 
 
 ### Connect With Me
