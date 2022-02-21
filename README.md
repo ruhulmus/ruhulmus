@@ -38,11 +38,12 @@
 - [Java Asynchronous logger with log4j 2](https://github.com/ruhulmus/logging-log4j2/tree/release-2.x/docs/log4j-java-async-logger#readme)
 - [Spring Boot Tutorial](https://github.com/ruhulmus/spring-boot-tutorial)
 
-### Licenses & certifications
+### Licenses & Certifications
+[![](https://images.credly.com/size/60x60/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png)](https://www.credly.com/badges/d432a9b2-aa31-42af-9339-14570158a151)
 
 
 ### Connect With Me
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/atmruhulamin)
 [![Twitter URL](https://img.shields.io/static/v1?color=red&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/atmruhulamin)
-[![Hacker Rank](https://img.shields.io/static/v1?color=red&label=Hacker%20Rank%20&logo=HackerRank&logoColor=white&style=for-the-badge&message=Follow)](https://www.hackerrank.com/ruhulmus?hr_r=1)
+[![Hacker Rank](https://img.shields.io/static/v1?color=red&label=Hacker%20Rank%20&logo=HackerRank&logoColor=white&style=for-the-badge&message=Follow)](https://www.hackerrank.com/ruhulmus)
