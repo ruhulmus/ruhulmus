@@ -22,7 +22,7 @@
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
-### Full Stack Projects
+### Open Source Projects
 
 [![](https://img.shields.io/badge/-🦠%20Releif%20Manager-000)](https://github.com/ruhulmus/Covid19-Relief-Management-PHP)
 [![](https://img.shields.io/badge/-⚙️%20Coming%20Soon%20Template-000)](https://github.com/ruhulmus/Bootstrap-Coming-Soon-underconstruction-responsive-Template)
