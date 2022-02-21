@@ -5,8 +5,8 @@
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=Php)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![MySQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
@@ -37,6 +37,8 @@
 - [Software Development and Deployment Process](https://github.com/ruhulmus/Software-Development-and-Deployment-Process#readme)
 - [Java Asynchronous logger with log4j 2](https://github.com/ruhulmus/logging-log4j2/tree/release-2.x/docs/log4j-java-async-logger#readme)
 - [Spring Boot Tutorial](https://github.com/ruhulmus/spring-boot-tutorial)
+
+### Licenses & certifications
 
 
 ### Connect With Me
