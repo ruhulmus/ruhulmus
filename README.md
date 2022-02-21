@@ -24,7 +24,7 @@
 
 ### Open Source Projects
 
-[![](https://img.shields.io/badge/-🦠%20Releif%20Manager-000)](https://github.com/ruhulmus/Covid19-Relief-Management-PHP)
+[![](https://img.shields.io/badge/-🦠%20Releif%20Manager-000)](https://github.com/ruhulmus/Covid19-Relief-Management-PHP#readme)
 [![](https://img.shields.io/badge/-⚙️%20Coming%20Soon%20Template-000)](https://github.com/ruhulmus/Bootstrap-Coming-Soon-underconstruction-responsive-Template)
 [![](https://img.shields.io/badge/-📃%20Project%20Documentation%20Template-000)](https://github.com/ruhulmus/Responsive-Template-Documentation#readme)
 
