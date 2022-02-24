@@ -31,6 +31,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![IoT](https://img.shields.io/badge/-Internet%20of%20Things-000?&logo=Internet%20of%20Things)
 ![Microservices](https://img.shields.io/badge/-Microservices-000?&logo=Microservices)
+![Git](https://img.shields.io/badge/-git-000?&logo=git)
 
 
 
