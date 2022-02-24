@@ -21,7 +21,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
-### Technologies
+### Technologies/Tools
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
