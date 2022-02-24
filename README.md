@@ -4,20 +4,35 @@
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=Php)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![MySQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=postgresql)
+
+
+### Frameworks
+
+![Spring](https://img.shields.io/badge/-Spring%20Boot-000?&logo=Spring-Boot)
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-000?&logo=CodeIgniter)
+![Wordpress](https://img.shields.io/badge/-Wordpress-000?&logo=Wordpress)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
 
 ### Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![IoT](https://img.shields.io/badge/-Internet%20of%20Things-000?&logo=Internet%20of%20Things)
+![Microservices](https://img.shields.io/badge/-Microservices-000?&logo=Microservices)
+
+
 
 ### Open Source Projects
 
