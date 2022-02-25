@@ -19,7 +19,6 @@
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-000?&logo=CodeIgniter)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-000?&logo=Wordpress)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
 
 ### Technologies/Tools
 
