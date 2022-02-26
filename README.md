@@ -19,6 +19,8 @@
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-000?&logo=CodeIgniter)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-000?&logo=Wordpress)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
+![Woocommerce](https://img.shields.io/badge/-Woocommerce-000?&logo=woocommerce)
+
 
 ### Technologies/Tools
 
@@ -31,7 +33,8 @@
 ![IoT](https://img.shields.io/badge/-Internet%20of%20Things-000?&logo=Internet%20of%20Things)
 ![Microservices](https://img.shields.io/badge/-Microservices-000?&logo=Microservices)
 ![Git](https://img.shields.io/badge/-git-000?&logo=git)
-
+![AWS%20Serverless](https://img.shields.io/badge/-AWS%20Serverless-000?&logo=serverless
+)
 
 
 ### Open Source Projects
