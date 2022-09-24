@@ -47,9 +47,9 @@
 
 ### Recent Post
 
-- [Git Flow Architecture](https://github.com/ruhulmus/Git-Flow-Architecture#readme)
-- [Software Development and Deployment Process](https://github.com/ruhulmus/Software-Development-and-Deployment-Process#readme)
-- [Java Asynchronous logger with log4j 2](https://github.com/ruhulmus/logging-log4j2/tree/release-2.x/docs/log4j-java-async-logger#readme)
+- [Git Flow Architecture](https://ruhulmus.medium.com/git-work-flow-architecture-3f0827d24bac)
+- [Software Development and Deployment Process](https://ruhulmus.medium.com/software-development-and-deployment-process-4119e436e34)
+- [Java Asynchronous logger with log4j 2](https://ruhulmus.medium.com/java-asynchronous-logger-with-log4j-2-1e7d7681812e)
 - [Spring Boot Tutorial](https://github.com/ruhulmus/spring-boot-tutorial)
 
 ### Licenses & Certifications
