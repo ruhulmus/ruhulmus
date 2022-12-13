@@ -46,8 +46,8 @@
 
 ### Licenses & Certifications
 
-[![](https://images.credly.com/size/100x100/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png)](https://www.credly.com/badges/d432a9b2-aa31-42af-9339-14570158a151)
-[![](https://media-exp1.licdn.com/dms/image/C560BAQHneWLNCPQgDA/company-logo_100_100/0/1641202397642?e=1653523200&v=beta&t=1uEHqMg2BOg4IMMA47KC7xdZCj9MhpLtwkbuQf8BMiY)](https://www.hackerrank.com/ruhulmus)
+[![](https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/d432a9b2-aa31-42af-9339-14570158a151)
+[![](https://img.icons8.com/external-tal-revivo-filled-tal-revivo/100/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png)](https://www.hackerrank.com/ruhulmus)
 
 
 ### Connect With Me
