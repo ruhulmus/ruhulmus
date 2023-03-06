@@ -47,8 +47,8 @@
 ### Licenses & Certifications
 
 [![](https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/d432a9b2-aa31-42af-9339-14570158a151)
+[![](https://images.credly.com/size/100x100/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png)](https://www.credly.com/badges/3e950d20-9ab3-499f-8518-fc2422a394bb)
 [![](https://img.icons8.com/external-tal-revivo-filled-tal-revivo/100/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png)](https://www.hackerrank.com/ruhulmus)
-
 
 ### Connect With Me
 
