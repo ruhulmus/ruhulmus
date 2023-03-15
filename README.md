@@ -11,7 +11,6 @@
 ![MySQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=postgresql)
 
-
 ### Frameworks
 
 ![Spring](https://img.shields.io/badge/-Spring%20Boot-000?&logo=Spring-Boot)
