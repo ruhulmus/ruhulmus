@@ -38,6 +38,7 @@
 
 ### Recent Post
 
+- [Image Uploads to Facebook Page using AWS Lambda, and Facebook Graph API](https://awstip.com/automating-image-uploads-to-facebook-page-using-aws-lambda-python-and-facebook-graph-api-8a2436484468)
 - [Git Flow Architecture](https://ruhulmus.medium.com/git-work-flow-architecture-3f0827d24bac)
 - [Software Development and Deployment Process](https://ruhulmus.medium.com/software-development-and-deployment-process-4119e436e34)
 - [Java Asynchronous logger with log4j 2](https://ruhulmus.medium.com/java-asynchronous-logger-with-log4j-2-1e7d7681812e)
